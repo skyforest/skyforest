@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyforest
 - 👀 I’m interested in DevOps and web development
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 Currently learning Kubernetes
 - 📫 Email me at rideplanetexpress@gmail.com
 
 <!---

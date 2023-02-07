@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyforest
-- 👀 I’m interested in DevOps and web development
-- 🌱 Currently learning Kubernetes
+- 👀 I build things
+- 🌱 Currently working at The University of Texas at Austin on IAM
 - 📫 Email me at rideplanetexpress@gmail.com
 
 <!---
